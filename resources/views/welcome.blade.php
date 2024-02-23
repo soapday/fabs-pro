@@ -9,5 +9,9 @@
 <body>
     <h1>HALO</h1>
     <h2>kenapa </h2>
+    <p>gapapa</p>
+    <nav class="navbar-brand">
+        
+    </nav>
 </body>
 </html>
