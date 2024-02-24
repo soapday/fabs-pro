@@ -1,4 +1,3 @@
-@extends('assets.base')
+@include('assets.base')
 
-@include('assets.navbar')
-@content
+
