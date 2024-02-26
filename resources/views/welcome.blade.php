@@ -4,7 +4,4 @@
 
 @section('content')
     {{-- Nanti apip Mulai ngoding bikin halaman webnya disini --}}
-
-=======
-    <div></div>
 @endsection
