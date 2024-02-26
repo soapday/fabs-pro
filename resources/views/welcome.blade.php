@@ -5,4 +5,5 @@
 
 @section('content')
     {{-- Nanti apip Mulai ngoding bikin halaman webnya disini --}}
+
 @endsection
